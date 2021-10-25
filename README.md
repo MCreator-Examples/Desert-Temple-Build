@@ -1,5 +1,5 @@
 ![Desert Temple Build](https://i.imgur.com/d94JfP6.png)
-# GRAPPLING HOOK
+# DESERT TEMPLE BUILD
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
 ## OVERVIEW
